@@ -22,14 +22,18 @@
 
 ## 🚀 Tech Stack
 
+### 💻 Languages & Tools I Use:
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -37,9 +41,7 @@
 
 ## 📺 Latest on YouTube
 
-🎥 [Build Responsive UI in Flutter](https://www.youtube.com/@AbdelrhmanMohamed-k3n)  
-🎥 [Flutter Clean Architecture in Arabic]  
-🎥 [State Management Simplified with Provider]
+🎥 [Check out my YouTube channel here](https://www.youtube.com/@AbdelrhmanMohamed-k3n)
 
 ---
 
@@ -54,7 +56,3 @@
 
 ## 💬 Let's Connect!
 Feel free to reach out if you're interested in Flutter, mobile development, or collaborating on open-source projects.
-
----
-
-> **"Code is like humor. When you have to explain it, it’s bad."**
