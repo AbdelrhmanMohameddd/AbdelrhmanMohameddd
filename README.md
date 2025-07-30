@@ -11,11 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdelrhmanMohamed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulrahmanmohamd/)
 [![Facebook](https://img.shields.io/badge/Facebook-AbdelrhmanMohamed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrhman.mohmed.10409)
 [![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201278814819)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbdelrhmanMohameddd&style=flat&color=orange&label=PROFILE+VIEWS)
-
 </div>
 
 ---
