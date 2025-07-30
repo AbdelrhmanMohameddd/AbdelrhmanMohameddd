@@ -36,7 +36,6 @@
 ---
 
 ## 📺 Latest on YouTube
-> *(تقدر تضيف بلوجن تلقائي من GitHub Actions لو حبيت، أو نكتب عناوين ثابتة للفيديوهات يدويًا)*
 
 🎥 [Build Responsive UI in Flutter](https://www.youtube.com/@AbdelrhmanMohamed-k3n)  
 🎥 [Flutter Clean Architecture in Arabic]  
